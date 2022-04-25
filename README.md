@@ -10,7 +10,7 @@ This is a Grocery Store Management Project which allows the admin (Shopkeeper) t
 
 
 ## Demonstration
-![site1](https://github.com/raghav13901/Grocery-app/blob/main/Screenshots/ga1.jpg) ![site2](https://github.com/raghav13901/Grocery-app/blob/main/Screenshots/ga2.jpg) ![site3](https://github.com/raghav13901/Grocery-app/blob/main/Screenshots/ga3.jpg) ![site4](https://github.com/raghav13901/Grocery-app/blob/main/Screenshots/ga4.jpg)
+![site1](https://github.com/raghav13901/Grocery-app/blob/main/screenshots/ga1.jpg) ![site2](https://github.com/raghav13901/Grocery-app/blob/main/screenshots/ga2.jpg) ![site3](https://github.com/raghav13901/Grocery-app/blob/main/screenshots/ga3.jpg) ![site4](https://github.com/raghav13901/Grocery-app/blob/main/screenshots/ga4.jpg)
 
 
 [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://github.com/Sparsh-Srivastava/Paper)
